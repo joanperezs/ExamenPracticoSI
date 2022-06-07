@@ -1,4 +1,4 @@
-# ExamenPracticoSI
+# Parte practica del examen del tercer trimestre de sistemas informáticos 
 ### Hecho por Joan Pérez Susidko
 
 
@@ -23,7 +23,7 @@ Creo una imagen con docker image build -t gymapp .
 Me da un error y a partir de aquí no puedo avanzar, pero esto serían los siguientes pasos:
 
 #### SOLUCIÓN:
-Cambiar a contenedores de windows, en switch to windows containers
+*Cambiar a contenedores de windows, en switch to windows containers*
 
 
 Después de la imagen, creo un tag con gymapp:. gymapp:gymappimage
